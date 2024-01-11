@@ -1,4 +1,9 @@
 div{
     background-color: pink;
     padding: 5px;
+    margin: 10px solid ;
+    border: 5px solid darkslategrey;
+    border-radius: 20px;
+    min-width: min-content;
+    
 }
